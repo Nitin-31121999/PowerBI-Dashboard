@@ -42,4 +42,6 @@ By interacting with this dashboard, users can gain valuable insights such as:
 * The relationship between the age or type of outlet establishment and total sales trends.
 * How customer ratings and the number of items sold vary across different segments.
 
+![Dashboard Screenshot]()
+
 This dashboard serves as a powerful tool for Blinkit to understand its sales patterns, customer preferences, and outlet performance, ultimately enabling data-driven decision-making for business growth and optimization.
