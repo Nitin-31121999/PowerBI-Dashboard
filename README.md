@@ -15,6 +15,8 @@ The dashboard is structured around the following key business requirements:
 4.  **Total Sales by Outlet Establishment:** Evaluate how the age or type of outlet establishment influences total sales. This trend analysis is visualized using a Line Chart.
 
 KEY KPI :
+
+
 ![image](https://github.com/user-attachments/assets/f0fb235f-cb2c-4b2e-9feb-2239aea5a71a)
 
 ![image](https://github.com/user-attachments/assets/d86b8688-6555-4e4b-997a-8b846cdd0f02)
