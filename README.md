@@ -14,6 +14,18 @@ The dashboard is structured around the following key business requirements:
 
 4.  **Total Sales by Outlet Establishment:** Evaluate how the age or type of outlet establishment influences total sales. This trend analysis is visualized using a Line Chart.
 
+KEY KPI :
+![image](https://github.com/user-attachments/assets/f0fb235f-cb2c-4b2e-9feb-2239aea5a71a)
+
+![image](https://github.com/user-attachments/assets/d86b8688-6555-4e4b-997a-8b846cdd0f02)
+
+![image](https://github.com/user-attachments/assets/018d1c14-d544-45e3-bd96-b95cb34c09f3)
+
+![image](https://github.com/user-attachments/assets/3365e174-1783-4efc-b6cf-d74bfab0bf18)
+
+
+
+
 ## KPIs Included
 
 The dashboard incorporates the following key performance indicators:
@@ -41,7 +53,5 @@ By interacting with this dashboard, users can gain valuable insights such as:
 * How different outlets perform in terms of total sales and the distribution of sales across fat content.
 * The relationship between the age or type of outlet establishment and total sales trends.
 * How customer ratings and the number of items sold vary across different segments.
-
-![Dashboard Screenshot](https://github.com/Nitin-31121999/PowerBI-Dashboard/blob/main/Dashboard_Image.png)
 
 This dashboard serves as a powerful tool for Blinkit to understand its sales patterns, customer preferences, and outlet performance, ultimately enabling data-driven decision-making for business growth and optimization.
